@@ -1,4 +1,4 @@
-# 💊 Advanced Pharmacy ERP - UI/UX Architecture
+# 💊 Advanced Pharmacy Desktop App UI Case Study
 
 > **A massive UI/UX project for a Pharmacy ERP system. Following my success in the POS challenge, I was commissioned to design the full visual and structural architecture for this enterprise suite using C# and DevExpress.**
 
