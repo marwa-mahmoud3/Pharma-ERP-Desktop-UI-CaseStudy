@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Context & Scope
-This project was my second professional collaboration with the same lead instructor. My role was to architect the **User Interface and Experience (UI/UX)** for the entire ERP system, ensuring a seamless, consistent, and professional look across all business modules.
+This project was my second professional collaboration with the same ITI instructor. My role was to architect the **User Interface and Experience (UI/UX)** for the entire ERP system, ensuring a seamless, consistent, and professional look across all business modules.
 
 ### **Why this is a "Senior" UI Project:**
 * **Complexity**: Designing interfaces for high-density data (Financials, Inventory, HR).
